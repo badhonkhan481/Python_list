@@ -10,3 +10,4 @@
 # remove() --removes an item from the list
 # pop()  ---returns and removes an element at the given index
 # clear()  -removes all items from the list
+# Python_list comprehension
